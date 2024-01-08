@@ -33,7 +33,7 @@
 <script type="text/javascript" src="https://html5shiv.googlecode.com/svn/trunk/html5.js?v={{constant('\Friendica\App::VERSION')}}"></script>
 <![endif]-->
 <script type="text/javascript" src="view/js/modernizr.js?v={{constant('\Friendica\App::VERSION')}}"></script>
-<script type="text/javascript" src="view/asset/jquery/dist/jquery.min.js?v={{constant('\Friendica\App::VERSION')}}"></script>
+<script type="text/javascript" src="view/asset/js/friendica.min.js?v={{constant('\Friendica\App::VERSION')}}"></script>
 <script type="text/javascript" src="view/js/jquery.textinputs.js?v={{constant('\Friendica\App::VERSION')}}"></script>
 <script type="text/javascript" src="view/asset/textcomplete/dist/textcomplete.min.js?v={{constant('\Friendica\App::VERSION')}}"></script>
 <script type="text/javascript" src="view/js/autocomplete.js?v={{constant('\Friendica\App::VERSION')}}"></script>

@@ -64,6 +64,9 @@ venv/
 /vendor
 /view/asset
 
+#ignore node modules
+node_modules/
+
 #ignore config files from JetBrains
 /.idea
 
